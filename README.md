@@ -101,8 +101,8 @@ will be better than a linear one. The residuals plot is given in figure 2(a).
 
 
 Figure 2: (a)Residual plot for OLS Regressor.(b)Residual plots for Ridge regressor with
-value of alpha to be 10,100,200 respectively.(c)Residual plots for Lasso regressor with value
-of alpha to be 3,100,200 respectively.
+value of alpha to be 10, 100 and 200 respectively.(c)Residual plots for Lasso regressor with value
+of alpha to be 3, 100 and 200 respectively.
 
 ### 5.2 Ridge Residual plot
 
