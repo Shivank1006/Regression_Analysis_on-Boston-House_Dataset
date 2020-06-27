@@ -34,9 +34,9 @@ They are:
 14. MEDV - Median value of owner-occupied homes in 1000’s
 
 <p align="center">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig1.png?raw=true" width=300 align="middle">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig2.png?raw=true" width=300 align="middle">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig3.png?raw=true" width=300 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig1.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig2.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig3.png?raw=true" width=224 align="middle">
 </p>
 
 Figure 1: (a)OLS Regression coefficients for different features.(b)Ridge Regression coeffi-
@@ -79,23 +79,23 @@ ever, it can be seen that the residual plot exhibit some ‘U’ shape means a n
 will be better than a linear one. The residuals plot is given in figure 2(a).
 
 <p align="center">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig4.png?raw=true" width=300 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig4.png?raw=true" width=224 align="middle">
 </p>
 
 <p align="center">(a)</p>
 
 <p align="center">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig5.png?raw=true" width=300 align="middle">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig6.png?raw=true" width=300 align="middle">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig7.png?raw=true" width=300 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig5.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig6.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig7.png?raw=true" width=224 align="middle">
 </p>
 <p align="center">(b)</p>
 
 
 <p align="center">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig8.png?raw=true" width=300 align="middle">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig9.png?raw=true" width=300 align="middle">
-<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig10.png?raw=true" width=300 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig8.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig9.png?raw=true" width=224 align="middle">
+<img src="https://github.com/Shivank1006/Regression_Analysis-Data_Science_Assignment/blob/master/images/fig10.png?raw=true" width=224 align="middle">
 </p>
 <p align="center">(c)</p>
 
